@@ -1,0 +1,7 @@
+telepot == 12.7
+requests
+python-telegram-bot
+telebot
+pyTelegramBotAPI
+bs4
+urllib3
